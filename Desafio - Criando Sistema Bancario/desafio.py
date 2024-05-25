@@ -1,5 +1,9 @@
 menu = """
 
+Seja bem vindo ao Banco STAR!
+Digite o número desejado para começar a operação.
+
+
 [1] Depositar
 [2] Sacar
 [3] Extrato
@@ -11,7 +15,7 @@ saldo = 0
 limite = 500
 extrato = ""
 numero_saques = 0
-LIMITE_SAQUES = 3
+LIMITE_SAQUES = 2
 
 while True:
 
